@@ -2,7 +2,7 @@
   <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
 </p>
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://miarodriguez2226.github.io/iMigration360/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1WuT2jhVCXty2J5WByZC79drCh20n_rAPtFQBqkkv4ck/edit?usp=sharing
 
